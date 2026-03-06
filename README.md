@@ -16,6 +16,6 @@ Traditional ERP software is often too expensive, too complex, or requires a PC t
 3. **Coming Soon:** Small Business Cash-Flow Strategy Engine.
 
 ---
-**Author:** SUBHAN SOHAIL
+**Author:** SUBHAN SOHAIL 
 **Field Research:** Karachi/Faisalabad Local Markets  
 **Tools:** Microsoft Excel, Claude AI, Data Analytics
