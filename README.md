@@ -8,7 +8,6 @@ Traditional ERP software is often too expensive, too complex, or requires a PC t
 
 ## 🛠️ The Philosophy
 - **Problem-First:** Every project starts with a real-world interview with a shopkeeper.
-- **Mobile-Friendly:** Designed for 6-inch smartphone screens.
 - **Actionable Intelligence:** Moving beyond "tracking data" to "suggesting decisions" (e.g., *Return this stock now* or *Your cheque will bounce*).
 
 ## 📂 Current Projects
